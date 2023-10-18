@@ -1,0 +1,7 @@
+{
+  "name": "resetCheckinStatus",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

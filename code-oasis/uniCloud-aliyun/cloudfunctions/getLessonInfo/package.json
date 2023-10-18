@@ -1,0 +1,7 @@
+{
+  "name": "getLessonInfo",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "sendDeveloperNewLessonInfo",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
