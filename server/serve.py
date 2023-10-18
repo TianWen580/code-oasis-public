@@ -786,9 +786,9 @@ def main(appid, api_key, api_secret, Spark_url, domain, question, temperature):
 
 # import SparkApi
 # 以下密钥信息从控制台获取
-appid = "8d6ffacc"  # 填写控制台中获取的 APPID 信息
-api_secret = "MTE2MzJhOGZmMmQ4YWY4ZTIwZDM3MGUx"  # 填写控制台中获取的 APISecret 信息
-api_key = "f59bd4857aff54509640b4cb2de89f20"  # 填写控制台中获取的 APIKey 信息
+appid = ""  # 填写控制台中获取的 APPID 信息
+api_secret = ""  # 填写控制台中获取的 APISecret 信息
+api_key = ""  # 填写控制台中获取的 APIKey 信息
 
 # 用于配置大模型版本，默认“general/generalv2”
 # domain = "general"   # v1.5版本
